@@ -1,0 +1,6632 @@
+[
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "1", "tipo": "Spades" },
+    "valores": "48,99"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "1", "tipo": "Hearts" },
+    "valores": "48,52"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "1", "tipo": "Diamonds" },
+    "valores": "48,08"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "2", "tipo": "Clubs" },
+    "valores": "10,88"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "2", "tipo": "Spades" },
+    "valores": "7,23"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "2", "tipo": "Hearts" },
+    "valores": "7,64"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "2", "tipo": "Diamonds" },
+    "valores": "7,57"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "3", "tipo": "Clubs" },
+    "valores": "11,39"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "3", "tipo": "Spades" },
+    "valores": "8,13"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "3", "tipo": "Hearts" },
+    "valores": "8,28"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "3", "tipo": "Diamonds" },
+    "valores": "8,04"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "4", "tipo": "Clubs" },
+    "valores": "12,1"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "4", "tipo": "Spades" },
+    "valores": "8,69"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "4", "tipo": "Hearts" },
+    "valores": "8,49"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "4", "tipo": "Diamonds" },
+    "valores": "8,16"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "5", "tipo": "Clubs" },
+    "valores": "12,83"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "5", "tipo": "Spades" },
+    "valores": "9,26"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "5", "tipo": "Hearts" },
+    "valores": "8,91"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "5", "tipo": "Diamonds" },
+    "valores": "8,8"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "6", "tipo": "Clubs" },
+    "valores": "11,73"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "6", "tipo": "Spades" },
+    "valores": "8,3"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "6", "tipo": "Hearts" },
+    "valores": "7,53"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "6", "tipo": "Diamonds" },
+    "valores": "8,68"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "7", "tipo": "Clubs" },
+    "valores": "12,53"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "7", "tipo": "Spades" },
+    "valores": "9,28"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "7", "tipo": "Hearts" },
+    "valores": "9,04"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "7", "tipo": "Diamonds" },
+    "valores": "9,26"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "8", "tipo": "Clubs" },
+    "valores": "13,81"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "8", "tipo": "Spades" },
+    "valores": "10"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "8", "tipo": "Hearts" },
+    "valores": "10,88"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "8", "tipo": "Diamonds" },
+    "valores": "9,88"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Clubs" },
+    "valores": "15,88"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Spades" },
+    "valores": "11,91"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "11,83"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "11,52"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "18,66"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "15,56"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "15,17"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "14,85"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "21,56"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "17,76"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "18,41"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "17,81"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "25,25"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "22,88"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "23,48"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "22,63"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "31,78"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "30,5"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "30,1"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "30,22"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "1", "tipo": "Hearts" },
+    "valores": "48,36"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "1", "tipo": "Diamonds" },
+    "valores": "47,71"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "2", "tipo": "Clubs" },
+    "valores": "7,05"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "2", "tipo": "Spades" },
+    "valores": "11,34"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "2", "tipo": "Hearts" },
+    "valores": "7,53"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "2", "tipo": "Diamonds" },
+    "valores": "7,2"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "3", "tipo": "Clubs" },
+    "valores": "7,54"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "3", "tipo": "Spades" },
+    "valores": "11,51"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "3", "tipo": "Hearts" },
+    "valores": "7,93"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "3", "tipo": "Diamonds" },
+    "valores": "7,86"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "4", "tipo": "Clubs" },
+    "valores": "8,15"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "4", "tipo": "Spades" },
+    "valores": "11,73"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "4", "tipo": "Hearts" },
+    "valores": "8,36"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "4", "tipo": "Diamonds" },
+    "valores": "8,28"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "5", "tipo": "Clubs" },
+    "valores": "8,95"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "5", "tipo": "Spades" },
+    "valores": "12,48"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "5", "tipo": "Hearts" },
+    "valores": "9,11"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "5", "tipo": "Diamonds" },
+    "valores": "8,82"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "6", "tipo": "Clubs" },
+    "valores": "8,23"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "6", "tipo": "Spades" },
+    "valores": "11,96"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "6", "tipo": "Hearts" },
+    "valores": "7,96"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "6", "tipo": "Diamonds" },
+    "valores": "8,95"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "7", "tipo": "Clubs" },
+    "valores": "9,38"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "7", "tipo": "Spades" },
+    "valores": "12,78"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "7", "tipo": "Hearts" },
+    "valores": "9,3"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "7", "tipo": "Diamonds" },
+    "valores": "9,73"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "8", "tipo": "Clubs" },
+    "valores": "10,13"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "8", "tipo": "Spades" },
+    "valores": "14,05"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "8", "tipo": "Hearts" },
+    "valores": "10,54"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "8", "tipo": "Diamonds" },
+    "valores": "10,04"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Clubs" },
+    "valores": "11,38"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Spades" },
+    "valores": "15,26"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "11,51"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "11,66"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "15,2"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "18,95"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "14,79"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "15,12"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "18,61"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "20,99"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "17,84"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "19,39"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "23,09"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "25,63"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "22,41"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "22,83"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "29,8"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "32,87"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "30,13"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "29,65"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "1", "tipo": "Diamonds" },
+    "valores": "48,31"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "2", "tipo": "Clubs" },
+    "valores": "7,34"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "2", "tipo": "Spades" },
+    "valores": "8,06"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "2", "tipo": "Hearts" },
+    "valores": "10,69"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "2", "tipo": "Diamonds" },
+    "valores": "7,78"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "3", "tipo": "Clubs" },
+    "valores": "8"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "3", "tipo": "Spades" },
+    "valores": "7,71"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "3", "tipo": "Hearts" },
+    "valores": "11,69"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "3", "tipo": "Diamonds" },
+    "valores": "7,96"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "4", "tipo": "Clubs" },
+    "valores": "8,51"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "4", "tipo": "Spades" },
+    "valores": "8,15"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "4", "tipo": "Hearts" },
+    "valores": "11,76"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "4", "tipo": "Diamonds" },
+    "valores": "8,39"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "5", "tipo": "Clubs" },
+    "valores": "9,52"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "5", "tipo": "Spades" },
+    "valores": "8,61"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "5", "tipo": "Hearts" },
+    "valores": "13,08"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "5", "tipo": "Diamonds" },
+    "valores": "9,27"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "6", "tipo": "Clubs" },
+    "valores": "8,25"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "6", "tipo": "Spades" },
+    "valores": "8,14"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "6", "tipo": "Hearts" },
+    "valores": "11,87"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "6", "tipo": "Diamonds" },
+    "valores": "8,29"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "7", "tipo": "Clubs" },
+    "valores": "8,85"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "7", "tipo": "Spades" },
+    "valores": "8,84"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "7", "tipo": "Hearts" },
+    "valores": "12,42"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "7", "tipo": "Diamonds" },
+    "valores": "9,31"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "8", "tipo": "Clubs" },
+    "valores": "10,26"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "8", "tipo": "Spades" },
+    "valores": "10,96"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "8", "tipo": "Hearts" },
+    "valores": "13,79"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "8", "tipo": "Diamonds" },
+    "valores": "10,3"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "9", "tipo": "Clubs" },
+    "valores": "11,93"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "9", "tipo": "Spades" },
+    "valores": "11,44"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "15,41"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "12,33"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "15,71"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "14,65"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "18,52"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "14,91"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "18,05"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "18,08"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "21,66"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "18,47"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "22,74"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "22,74"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "25,9"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "22,7"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "29,9"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "30,33"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "32,49"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "30,32"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "2", "tipo": "Clubs" },
+    "valores": "7,31"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "2", "tipo": "Spades" },
+    "valores": "7,48"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "2", "tipo": "Hearts" },
+    "valores": "7,57"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "2", "tipo": "Diamonds" },
+    "valores": "10,96"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "3", "tipo": "Clubs" },
+    "valores": "7,85"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "3", "tipo": "Spades" },
+    "valores": "8,27"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "3", "tipo": "Hearts" },
+    "valores": "8,22"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "3", "tipo": "Diamonds" },
+    "valores": "11,46"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "4", "tipo": "Clubs" },
+    "valores": "8,37"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "4", "tipo": "Spades" },
+    "valores": "9,01"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "4", "tipo": "Hearts" },
+    "valores": "8,17"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "4", "tipo": "Diamonds" },
+    "valores": "12,39"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "5", "tipo": "Clubs" },
+    "valores": "9,29"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "5", "tipo": "Spades" },
+    "valores": "9,42"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "5", "tipo": "Hearts" },
+    "valores": "9,28"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "5", "tipo": "Diamonds" },
+    "valores": "12,78"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "6", "tipo": "Clubs" },
+    "valores": "8,7"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "6", "tipo": "Spades" },
+    "valores": "8,59"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "6", "tipo": "Hearts" },
+    "valores": "8,23"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "6", "tipo": "Diamonds" },
+    "valores": "12,51"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "7", "tipo": "Clubs" },
+    "valores": "9,2"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "7", "tipo": "Spades" },
+    "valores": "9,06"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "7", "tipo": "Hearts" },
+    "valores": "9,77"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "7", "tipo": "Diamonds" },
+    "valores": "12,33"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "8", "tipo": "Clubs" },
+    "valores": "10,59"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "8", "tipo": "Spades" },
+    "valores": "10,01"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "8", "tipo": "Hearts" },
+    "valores": "10,28"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "8", "tipo": "Diamonds" },
+    "valores": "13,61"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "9", "tipo": "Clubs" },
+    "valores": "11,34"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "9", "tipo": "Spades" },
+    "valores": "11,64"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "11,99"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "14,95"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "15,14"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "15,15"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "14,88"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "18,3"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "18,26"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "17,86"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "18,86"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "21"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "23,07"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "22,32"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "22,18"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "25,16"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "29,36"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "30,28"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "29,91"
+  },
+  {
+    "carta1": { "valor": "1", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "32,48"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "2", "tipo": "Spades" },
+    "valores": "16,03"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "2", "tipo": "Hearts" },
+    "valores": "16,6"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "2", "tipo": "Diamonds" },
+    "valores": "15,06"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "3", "tipo": "Clubs" },
+    "valores": "12,76"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "3", "tipo": "Spades" },
+    "valores": "9,26"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "3", "tipo": "Hearts" },
+    "valores": "8,74"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "3", "tipo": "Diamonds" },
+    "valores": "8,97"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "4", "tipo": "Clubs" },
+    "valores": "12,7"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "4", "tipo": "Spades" },
+    "valores": "8,84"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "4", "tipo": "Hearts" },
+    "valores": "9,84"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "4", "tipo": "Diamonds" },
+    "valores": "9,67"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "5", "tipo": "Clubs" },
+    "valores": "13,35"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "5", "tipo": "Spades" },
+    "valores": "10,07"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "5", "tipo": "Hearts" },
+    "valores": "10,57"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "5", "tipo": "Diamonds" },
+    "valores": "10,33"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "6", "tipo": "Clubs" },
+    "valores": "12,27"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "6", "tipo": "Spades" },
+    "valores": "9,13"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "6", "tipo": "Hearts" },
+    "valores": "9,32"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "6", "tipo": "Diamonds" },
+    "valores": "9,23"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "7", "tipo": "Clubs" },
+    "valores": "12,8"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "7", "tipo": "Spades" },
+    "valores": "9,05"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "7", "tipo": "Hearts" },
+    "valores": "9,11"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "7", "tipo": "Diamonds" },
+    "valores": "9,35"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "8", "tipo": "Clubs" },
+    "valores": "13,95"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "8", "tipo": "Spades" },
+    "valores": "9,91"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "8", "tipo": "Hearts" },
+    "valores": "10,2"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "8", "tipo": "Diamonds" },
+    "valores": "10,19"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Clubs" },
+    "valores": "16,02"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Spades" },
+    "valores": "11,91"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "11,7"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "11,57"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "17,55"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "13,87"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "13,93"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "15,05"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "19,83"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "17,52"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "16,66"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "16,79"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "24,56"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "22,08"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "21,6"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "21,49"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "31,64"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "28,63"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "28,82"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "28,42"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "2", "tipo": "Hearts" },
+    "valores": "15,15"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "2", "tipo": "Diamonds" },
+    "valores": "15,65"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "3", "tipo": "Clubs" },
+    "valores": "8,75"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "3", "tipo": "Spades" },
+    "valores": "12,5"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "3", "tipo": "Hearts" },
+    "valores": "8,64"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "3", "tipo": "Diamonds" },
+    "valores": "8,6"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "4", "tipo": "Clubs" },
+    "valores": "9,86"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "4", "tipo": "Spades" },
+    "valores": "13,31"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "4", "tipo": "Hearts" },
+    "valores": "9,35"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "4", "tipo": "Diamonds" },
+    "valores": "9,86"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "5", "tipo": "Clubs" },
+    "valores": "10,36"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "5", "tipo": "Spades" },
+    "valores": "13,49"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "5", "tipo": "Hearts" },
+    "valores": "10,23"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "5", "tipo": "Diamonds" },
+    "valores": "10,06"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "6", "tipo": "Clubs" },
+    "valores": "9,2"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "6", "tipo": "Spades" },
+    "valores": "13"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "6", "tipo": "Hearts" },
+    "valores": "9,31"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "6", "tipo": "Diamonds" },
+    "valores": "9,32"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "7", "tipo": "Clubs" },
+    "valores": "9,02"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "7", "tipo": "Spades" },
+    "valores": "12,6"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "7", "tipo": "Hearts" },
+    "valores": "8,93"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "7", "tipo": "Diamonds" },
+    "valores": "8,76"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "8", "tipo": "Clubs" },
+    "valores": "10,37"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "8", "tipo": "Spades" },
+    "valores": "13,42"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "8", "tipo": "Hearts" },
+    "valores": "10,05"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "8", "tipo": "Diamonds" },
+    "valores": "9,4"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Clubs" },
+    "valores": "12,2"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Spades" },
+    "valores": "15,14"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "11,52"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "12,2"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "14,63"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "17,65"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "14,56"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "14,25"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "17,32"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "20,44"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "17,35"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "17,22"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "21,41"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "24,38"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "22,02"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "21,14"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "28,09"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "30,68"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "28,05"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "28,98"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "2", "tipo": "Diamonds" },
+    "valores": "15,91"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "3", "tipo": "Clubs" },
+    "valores": "8,66"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "3", "tipo": "Spades" },
+    "valores": "9,18"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "3", "tipo": "Hearts" },
+    "valores": "11,92"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "3", "tipo": "Diamonds" },
+    "valores": "9,03"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "4", "tipo": "Clubs" },
+    "valores": "9,64"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "4", "tipo": "Spades" },
+    "valores": "9,79"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "4", "tipo": "Hearts" },
+    "valores": "12,9"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "4", "tipo": "Diamonds" },
+    "valores": "9,27"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "5", "tipo": "Clubs" },
+    "valores": "10,26"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "5", "tipo": "Spades" },
+    "valores": "10,21"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "5", "tipo": "Hearts" },
+    "valores": "13,48"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "5", "tipo": "Diamonds" },
+    "valores": "10,13"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "6", "tipo": "Clubs" },
+    "valores": "9,28"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "6", "tipo": "Spades" },
+    "valores": "8,85"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "6", "tipo": "Hearts" },
+    "valores": "12,67"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "6", "tipo": "Diamonds" },
+    "valores": "8,91"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "7", "tipo": "Clubs" },
+    "valores": "9,3"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "7", "tipo": "Spades" },
+    "valores": "9,57"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "7", "tipo": "Hearts" },
+    "valores": "12,39"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "7", "tipo": "Diamonds" },
+    "valores": "9,33"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "8", "tipo": "Clubs" },
+    "valores": "10,37"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "8", "tipo": "Spades" },
+    "valores": "10,46"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "8", "tipo": "Hearts" },
+    "valores": "14,21"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "8", "tipo": "Diamonds" },
+    "valores": "10,77"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "9", "tipo": "Clubs" },
+    "valores": "11,57"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "9", "tipo": "Spades" },
+    "valores": "11,69"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "15,2"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "11,82"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "14,29"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "14,11"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "17,68"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "13,99"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "17,41"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "16,55"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "19,66"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "17,57"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "21,8"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "21,54"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "24,99"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "22,17"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "28,63"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "28,48"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "30,92"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "28,82"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "3", "tipo": "Clubs" },
+    "valores": "8,98"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "3", "tipo": "Spades" },
+    "valores": "8,97"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "3", "tipo": "Hearts" },
+    "valores": "9,08"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "3", "tipo": "Diamonds" },
+    "valores": "12,48"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "4", "tipo": "Clubs" },
+    "valores": "9,82"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "4", "tipo": "Spades" },
+    "valores": "9,77"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "4", "tipo": "Hearts" },
+    "valores": "9,56"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "4", "tipo": "Diamonds" },
+    "valores": "12,84"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "5", "tipo": "Clubs" },
+    "valores": "9,88"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "5", "tipo": "Spades" },
+    "valores": "10,34"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "5", "tipo": "Hearts" },
+    "valores": "10,25"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "5", "tipo": "Diamonds" },
+    "valores": "13,67"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "6", "tipo": "Clubs" },
+    "valores": "9,06"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "6", "tipo": "Spades" },
+    "valores": "8,88"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "6", "tipo": "Hearts" },
+    "valores": "9,42"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "6", "tipo": "Diamonds" },
+    "valores": "12,94"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "7", "tipo": "Clubs" },
+    "valores": "9,17"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "7", "tipo": "Spades" },
+    "valores": "9,25"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "7", "tipo": "Hearts" },
+    "valores": "9,37"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "7", "tipo": "Diamonds" },
+    "valores": "12,69"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "8", "tipo": "Clubs" },
+    "valores": "10,7"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "8", "tipo": "Spades" },
+    "valores": "10,58"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "8", "tipo": "Hearts" },
+    "valores": "10,42"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "8", "tipo": "Diamonds" },
+    "valores": "13,93"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "9", "tipo": "Clubs" },
+    "valores": "12,52"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "9", "tipo": "Spades" },
+    "valores": "11,98"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "11,84"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "15,2"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "14,04"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "13,96"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "14,49"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "17,32"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "16,74"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "16,99"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "16,62"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "19,47"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "21,64"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "21,78"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "21,12"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "24,87"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "28,51"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "28,57"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "28,4"
+  },
+  {
+    "carta1": { "valor": "2", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "31,2"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "3", "tipo": "Spades" },
+    "valores": "15,86"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "3", "tipo": "Hearts" },
+    "valores": "16,16"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "3", "tipo": "Diamonds" },
+    "valores": "15,33"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "4", "tipo": "Clubs" },
+    "valores": "13,6"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "4", "tipo": "Spades" },
+    "valores": "10,85"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "4", "tipo": "Hearts" },
+    "valores": "10,08"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "4", "tipo": "Diamonds" },
+    "valores": "9,82"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "5", "tipo": "Clubs" },
+    "valores": "15,03"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "5", "tipo": "Spades" },
+    "valores": "10,73"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "5", "tipo": "Hearts" },
+    "valores": "11,46"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "5", "tipo": "Diamonds" },
+    "valores": "11,3"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "6", "tipo": "Clubs" },
+    "valores": "14,88"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "6", "tipo": "Spades" },
+    "valores": "10,91"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "6", "tipo": "Hearts" },
+    "valores": "10,02"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "6", "tipo": "Diamonds" },
+    "valores": "10,23"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "7", "tipo": "Clubs" },
+    "valores": "13,95"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "7", "tipo": "Spades" },
+    "valores": "10,42"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "7", "tipo": "Hearts" },
+    "valores": "10,81"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "7", "tipo": "Diamonds" },
+    "valores": "9,82"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "8", "tipo": "Clubs" },
+    "valores": "13,38"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "8", "tipo": "Spades" },
+    "valores": "10,44"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "8", "tipo": "Hearts" },
+    "valores": "10,65"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "8", "tipo": "Diamonds" },
+    "valores": "10,5"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Clubs" },
+    "valores": "15,61"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Spades" },
+    "valores": "12,83"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "12,36"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "12,07"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "16,69"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "13,73"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "14,12"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "14,52"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "20,17"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "16,52"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "16,84"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "17,5"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "23,98"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "21,38"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "21,99"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "22,01"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "32,14"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "28,67"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "29,26"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "28,08"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "3", "tipo": "Hearts" },
+    "valores": "15,91"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "3", "tipo": "Diamonds" },
+    "valores": "15,88"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "4", "tipo": "Clubs" },
+    "valores": "10,97"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "4", "tipo": "Spades" },
+    "valores": "12,85"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "4", "tipo": "Hearts" },
+    "valores": "10,33"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "4", "tipo": "Diamonds" },
+    "valores": "10,94"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "5", "tipo": "Clubs" },
+    "valores": "11,34"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "5", "tipo": "Spades" },
+    "valores": "14,63"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "5", "tipo": "Hearts" },
+    "valores": "11,67"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "5", "tipo": "Diamonds" },
+    "valores": "11,23"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "6", "tipo": "Clubs" },
+    "valores": "10,66"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "6", "tipo": "Spades" },
+    "valores": "13,95"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "6", "tipo": "Hearts" },
+    "valores": "10,3"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "6", "tipo": "Diamonds" },
+    "valores": "10,28"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "7", "tipo": "Clubs" },
+    "valores": "9,61"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "7", "tipo": "Spades" },
+    "valores": "13,61"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "7", "tipo": "Hearts" },
+    "valores": "10,85"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "7", "tipo": "Diamonds" },
+    "valores": "10,29"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "8", "tipo": "Clubs" },
+    "valores": "10,58"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "8", "tipo": "Spades" },
+    "valores": "13,92"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "8", "tipo": "Hearts" },
+    "valores": "10,34"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "8", "tipo": "Diamonds" },
+    "valores": "10,53"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Clubs" },
+    "valores": "11,62"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Spades" },
+    "valores": "15,62"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "12,42"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "11,64"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "14,27"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "17,24"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "14,64"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "14,09"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "17,25"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "19,72"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "17,21"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "16,97"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "21,66"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "24,24"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "20,52"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "21,5"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "28,32"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "31,12"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "28,83"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "29,15"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "3", "tipo": "Diamonds" },
+    "valores": "15,92"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "4", "tipo": "Clubs" },
+    "valores": "10,96"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "4", "tipo": "Spades" },
+    "valores": "10,53"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "4", "tipo": "Hearts" },
+    "valores": "14,06"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "4", "tipo": "Diamonds" },
+    "valores": "10,85"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "5", "tipo": "Clubs" },
+    "valores": "10,95"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "5", "tipo": "Spades" },
+    "valores": "10,69"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "5", "tipo": "Hearts" },
+    "valores": "14,09"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "5", "tipo": "Diamonds" },
+    "valores": "11,16"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "6", "tipo": "Clubs" },
+    "valores": "10,6"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "6", "tipo": "Spades" },
+    "valores": "10,32"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "6", "tipo": "Hearts" },
+    "valores": "14,3"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "6", "tipo": "Diamonds" },
+    "valores": "10,67"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "7", "tipo": "Clubs" },
+    "valores": "10,19"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "7", "tipo": "Spades" },
+    "valores": "9,88"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "7", "tipo": "Hearts" },
+    "valores": "13,22"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "7", "tipo": "Diamonds" },
+    "valores": "9,67"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "8", "tipo": "Clubs" },
+    "valores": "9,8"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "8", "tipo": "Spades" },
+    "valores": "9,67"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "8", "tipo": "Hearts" },
+    "valores": "14,58"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "8", "tipo": "Diamonds" },
+    "valores": "10,74"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "9", "tipo": "Clubs" },
+    "valores": "11,75"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "9", "tipo": "Spades" },
+    "valores": "12,26"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "15,72"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "12,22"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "14,24"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "13,93"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "17,38"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "13,94"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "17"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "17,56"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "20,57"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "16,71"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "21,5"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "20,83"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "24,47"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "21,23"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "28,48"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "28,71"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "30,69"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "28,79"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "4", "tipo": "Clubs" },
+    "valores": "10,13"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "4", "tipo": "Spades" },
+    "valores": "10,35"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "4", "tipo": "Hearts" },
+    "valores": "10,63"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "4", "tipo": "Diamonds" },
+    "valores": "14,34"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "5", "tipo": "Clubs" },
+    "valores": "10,84"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "5", "tipo": "Spades" },
+    "valores": "10,7"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "5", "tipo": "Hearts" },
+    "valores": "11,21"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "5", "tipo": "Diamonds" },
+    "valores": "14,42"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "6", "tipo": "Clubs" },
+    "valores": "10,55"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "6", "tipo": "Spades" },
+    "valores": "10,27"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "6", "tipo": "Hearts" },
+    "valores": "10,19"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "6", "tipo": "Diamonds" },
+    "valores": "14,46"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "7", "tipo": "Clubs" },
+    "valores": "10,34"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "7", "tipo": "Spades" },
+    "valores": "10,02"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "7", "tipo": "Hearts" },
+    "valores": "9,84"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "7", "tipo": "Diamonds" },
+    "valores": "13,72"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "8", "tipo": "Clubs" },
+    "valores": "10,48"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "8", "tipo": "Spades" },
+    "valores": "10,34"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "8", "tipo": "Hearts" },
+    "valores": "10,63"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "8", "tipo": "Diamonds" },
+    "valores": "14,39"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "9", "tipo": "Clubs" },
+    "valores": "11,87"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "9", "tipo": "Spades" },
+    "valores": "12,14"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "11,83"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "15,77"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "14,74"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "14,38"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "13,85"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "17,49"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "17,19"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "17,13"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "17,06"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "20,53"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "22,05"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "21,49"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "20,98"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "24,75"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "27,91"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "27,42"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "28,51"
+  },
+  {
+    "carta1": { "valor": "3", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "30,91"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "4", "tipo": "Spades" },
+    "valores": "16,03"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "4", "tipo": "Hearts" },
+    "valores": "16,37"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "4", "tipo": "Diamonds" },
+    "valores": "16,01"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "5", "tipo": "Clubs" },
+    "valores": "15,28"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "5", "tipo": "Spades" },
+    "valores": "12,29"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "5", "tipo": "Hearts" },
+    "valores": "12,85"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "5", "tipo": "Diamonds" },
+    "valores": "11,8"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "6", "tipo": "Clubs" },
+    "valores": "15,05"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "6", "tipo": "Spades" },
+    "valores": "12,16"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "6", "tipo": "Hearts" },
+    "valores": "12,05"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "6", "tipo": "Diamonds" },
+    "valores": "11,93"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "7", "tipo": "Clubs" },
+    "valores": "14,47"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "7", "tipo": "Spades" },
+    "valores": "11,66"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "7", "tipo": "Hearts" },
+    "valores": "10,45"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "7", "tipo": "Diamonds" },
+    "valores": "11,86"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "8", "tipo": "Clubs" },
+    "valores": "14,42"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "8", "tipo": "Spades" },
+    "valores": "11,72"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "8", "tipo": "Hearts" },
+    "valores": "11,41"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "8", "tipo": "Diamonds" },
+    "valores": "10,8"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Clubs" },
+    "valores": "15,04"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Spades" },
+    "valores": "11,96"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "11,87"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "11,94"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "17,88"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "14,72"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "14,62"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "14,51"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "20,59"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "17,32"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "17,34"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "17,01"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "24,01"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "22,21"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "22,27"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "21,36"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "31,12"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "28,48"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "28,86"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "27,92"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "4", "tipo": "Hearts" },
+    "valores": "16,25"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "4", "tipo": "Diamonds" },
+    "valores": "16,26"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "5", "tipo": "Clubs" },
+    "valores": "11,81"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "5", "tipo": "Spades" },
+    "valores": "15,58"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "5", "tipo": "Hearts" },
+    "valores": "12,57"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "5", "tipo": "Diamonds" },
+    "valores": "11,88"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "6", "tipo": "Clubs" },
+    "valores": "11,31"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "6", "tipo": "Spades" },
+    "valores": "14,42"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "6", "tipo": "Hearts" },
+    "valores": "11,57"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "6", "tipo": "Diamonds" },
+    "valores": "11,87"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "7", "tipo": "Clubs" },
+    "valores": "11,54"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "7", "tipo": "Spades" },
+    "valores": "14,87"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "7", "tipo": "Hearts" },
+    "valores": "11,16"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "7", "tipo": "Diamonds" },
+    "valores": "11,3"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "8", "tipo": "Clubs" },
+    "valores": "11,74"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "8", "tipo": "Spades" },
+    "valores": "14,98"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "8", "tipo": "Hearts" },
+    "valores": "10,74"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "8", "tipo": "Diamonds" },
+    "valores": "11,25"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Clubs" },
+    "valores": "11,92"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Spades" },
+    "valores": "15,74"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "12,72"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "11,96"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "13,92"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "17,91"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "14,31"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "14,47"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "17,35"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "19,65"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "17,88"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "17,66"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "21,36"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "24,34"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "21,72"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "21,44"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "28,81"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "30,37"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "28,09"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "27,78"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "4", "tipo": "Diamonds" },
+    "valores": "15,89"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "5", "tipo": "Clubs" },
+    "valores": "12,76"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "5", "tipo": "Spades" },
+    "valores": "12,25"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "5", "tipo": "Hearts" },
+    "valores": "16,21"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "5", "tipo": "Diamonds" },
+    "valores": "11,83"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "6", "tipo": "Clubs" },
+    "valores": "11,3"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "6", "tipo": "Spades" },
+    "valores": "12,05"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "6", "tipo": "Hearts" },
+    "valores": "15,18"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "6", "tipo": "Diamonds" },
+    "valores": "11,35"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "7", "tipo": "Clubs" },
+    "valores": "11,49"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "7", "tipo": "Spades" },
+    "valores": "11,04"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "7", "tipo": "Hearts" },
+    "valores": "14,68"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "7", "tipo": "Diamonds" },
+    "valores": "11,43"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "8", "tipo": "Clubs" },
+    "valores": "11,76"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "8", "tipo": "Spades" },
+    "valores": "10,69"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "8", "tipo": "Hearts" },
+    "valores": "14,75"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "8", "tipo": "Diamonds" },
+    "valores": "11,19"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "9", "tipo": "Clubs" },
+    "valores": "11,88"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "9", "tipo": "Spades" },
+    "valores": "12,37"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "16"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "12,29"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "14,34"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "14,09"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "17,42"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "14,61"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "16,78"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "16,72"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "20,58"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "17,34"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "21,95"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "21,85"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "24,44"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "22,29"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "28,08"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "28,2"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "30,59"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "28,13"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "5", "tipo": "Clubs" },
+    "valores": "11,54"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "5", "tipo": "Spades" },
+    "valores": "12,31"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "5", "tipo": "Hearts" },
+    "valores": "12,47"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "5", "tipo": "Diamonds" },
+    "valores": "16,15"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "6", "tipo": "Clubs" },
+    "valores": "11,53"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "6", "tipo": "Spades" },
+    "valores": "11,95"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "6", "tipo": "Hearts" },
+    "valores": "11,75"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "6", "tipo": "Diamonds" },
+    "valores": "14,74"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "7", "tipo": "Clubs" },
+    "valores": "12,14"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "7", "tipo": "Spades" },
+    "valores": "11,05"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "7", "tipo": "Hearts" },
+    "valores": "11,28"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "7", "tipo": "Diamonds" },
+    "valores": "14,75"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "8", "tipo": "Clubs" },
+    "valores": "11,26"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "8", "tipo": "Spades" },
+    "valores": "11,34"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "8", "tipo": "Hearts" },
+    "valores": "11,6"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "8", "tipo": "Diamonds" },
+    "valores": "14,42"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "9", "tipo": "Clubs" },
+    "valores": "11,8"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "9", "tipo": "Spades" },
+    "valores": "12,36"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "12,04"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "15,15"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "14,27"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "14,45"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "14,28"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "18,03"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "16,36"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "16,69"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "17,37"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "20,96"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "21,71"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "22,2"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "21,77"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "24,87"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "28,07"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "28,52"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "28,52"
+  },
+  {
+    "carta1": { "valor": "4", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "30,54"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "5", "tipo": "Spades" },
+    "valores": "16,66"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "5", "tipo": "Hearts" },
+    "valores": "16,41"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "5", "tipo": "Diamonds" },
+    "valores": "16,44"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "6", "tipo": "Clubs" },
+    "valores": "16,43"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "6", "tipo": "Spades" },
+    "valores": "12,31"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "6", "tipo": "Hearts" },
+    "valores": "12,13"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "6", "tipo": "Diamonds" },
+    "valores": "12,31"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "7", "tipo": "Clubs" },
+    "valores": "15,89"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "7", "tipo": "Spades" },
+    "valores": "12,18"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "7", "tipo": "Hearts" },
+    "valores": "12,08"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "7", "tipo": "Diamonds" },
+    "valores": "12,43"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "8", "tipo": "Clubs" },
+    "valores": "15,87"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "8", "tipo": "Spades" },
+    "valores": "12,06"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "8", "tipo": "Hearts" },
+    "valores": "12,71"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "8", "tipo": "Diamonds" },
+    "valores": "12,89"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Clubs" },
+    "valores": "16,24"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Spades" },
+    "valores": "12,41"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "13,52"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "14,08"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "16,99"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "14,46"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "14,16"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "13,8"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "20,27"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "17,22"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "18,27"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "17,47"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "23,97"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "21,26"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "21,7"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "21,72"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "32,17"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "28,18"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "28,51"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "28,51"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "5", "tipo": "Hearts" },
+    "valores": "16,52"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "5", "tipo": "Diamonds" },
+    "valores": "16,3"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "6", "tipo": "Clubs" },
+    "valores": "12,68"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "6", "tipo": "Spades" },
+    "valores": "15,51"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "6", "tipo": "Hearts" },
+    "valores": "12,91"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "6", "tipo": "Diamonds" },
+    "valores": "12,43"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "7", "tipo": "Clubs" },
+    "valores": "12,43"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "7", "tipo": "Spades" },
+    "valores": "16,16"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "7", "tipo": "Hearts" },
+    "valores": "12,43"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "7", "tipo": "Diamonds" },
+    "valores": "12,59"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "8", "tipo": "Clubs" },
+    "valores": "12,65"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "8", "tipo": "Spades" },
+    "valores": "15,55"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "8", "tipo": "Hearts" },
+    "valores": "12,51"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "8", "tipo": "Diamonds" },
+    "valores": "12,45"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Clubs" },
+    "valores": "13,25"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Spades" },
+    "valores": "16,85"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "12,94"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "13,37"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "14,06"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "17,42"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "14,45"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "13,94"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "17,7"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "20,72"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "17,31"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "16,77"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "21,28"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "24,72"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "21,51"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "22,16"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "28,32"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "31,43"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "28,93"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "28,36"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Hearts" },
+    "carta2": { "valor": "5", "tipo": "Diamonds" },
+    "valores": "17,23"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Hearts" },
+    "carta2": { "valor": "6", "tipo": "Clubs" },
+    "valores": "12,63"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Hearts" },
+    "carta2": { "valor": "6", "tipo": "Spades" },
+    "valores": "11,68"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Hearts" },
+    "carta2": { "valor": "6", "tipo": "Hearts" },
+    "valores": "15,6"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Hearts" },
+    "carta2": { "valor": "6", "tipo": "Diamonds" },
+    "valores": "12,9"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Hearts" },
+    "carta2": { "valor": "7", "tipo": "Clubs" },
+    "valores": "12,76"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Hearts" },
+    "carta2": { "valor": "7", "tipo": "Spades" },
+    "valores": "12,54"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Hearts" },
+    "carta2": { "valor": "7", "tipo": "Hearts" },
+    "valores": "15,77"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Hearts" },
+    "carta2": { "valor": "7", "tipo": "Diamonds" },
+    "valores": "12,94"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Hearts" },
+    "carta2": { "valor": "8", "tipo": "Clubs" },
+    "valores": "13,32"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Hearts" },
+    "carta2": { "valor": "8", "tipo": "Spades" },
+    "valores": "12,59"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Hearts" },
+    "carta2": { "valor": "8", "tipo": "Hearts" },
+    "valores": "15,8"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Hearts" },
+    "carta2": { "valor": "8", "tipo": "Diamonds" },
+    "valores": "12,61"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Hearts" },
+    "carta2": { "valor": "9", "tipo": "Clubs" },
+    "valores": "13,05"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Hearts" },
+    "carta2": { "valor": "9", "tipo": "Spades" },
+    "valores": "13,2"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Hearts" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "16,01"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Hearts" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "12,92"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "13,94"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "14,06"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "17,46"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "14,01"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "17,73"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "17,29"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "20,57"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "16,84"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "21,91"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "21,14"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "24,84"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "21,71"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "28,85"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "28,18"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "30,71"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "28,65"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Diamonds" },
+    "carta2": { "valor": "6", "tipo": "Clubs" },
+    "valores": "12,56"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Diamonds" },
+    "carta2": { "valor": "6", "tipo": "Spades" },
+    "valores": "12,47"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Diamonds" },
+    "carta2": { "valor": "6", "tipo": "Hearts" },
+    "valores": "12,84"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Diamonds" },
+    "carta2": { "valor": "6", "tipo": "Diamonds" },
+    "valores": "16,56"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Diamonds" },
+    "carta2": { "valor": "7", "tipo": "Clubs" },
+    "valores": "12,26"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Diamonds" },
+    "carta2": { "valor": "7", "tipo": "Spades" },
+    "valores": "12,51"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Diamonds" },
+    "carta2": { "valor": "7", "tipo": "Hearts" },
+    "valores": "12,98"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Diamonds" },
+    "carta2": { "valor": "7", "tipo": "Diamonds" },
+    "valores": "16,16"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Diamonds" },
+    "carta2": { "valor": "8", "tipo": "Clubs" },
+    "valores": "12,9"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Diamonds" },
+    "carta2": { "valor": "8", "tipo": "Spades" },
+    "valores": "12,61"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Diamonds" },
+    "carta2": { "valor": "8", "tipo": "Hearts" },
+    "valores": "12,83"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Diamonds" },
+    "carta2": { "valor": "8", "tipo": "Diamonds" },
+    "valores": "16,01"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Diamonds" },
+    "carta2": { "valor": "9", "tipo": "Clubs" },
+    "valores": "13,53"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Diamonds" },
+    "carta2": { "valor": "9", "tipo": "Spades" },
+    "valores": "13,13"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Diamonds" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "12,6"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Diamonds" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "16,1"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "14,04"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "13,99"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "13,9"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "17,12"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "16,72"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "16,15"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "16,64"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "20,7"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "21,2"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "21,79"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "20,88"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "24,56"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "29,15"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "29,54"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "28,85"
+  },
+  {
+    "carta1": { "valor": "5", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "31,48"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Clubs" },
+    "carta2": { "valor": "6", "tipo": "Spades" },
+    "valores": "17,62"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Clubs" },
+    "carta2": { "valor": "6", "tipo": "Hearts" },
+    "valores": "17,44"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Clubs" },
+    "carta2": { "valor": "6", "tipo": "Diamonds" },
+    "valores": "17,19"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Clubs" },
+    "carta2": { "valor": "7", "tipo": "Clubs" },
+    "valores": "16,14"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Clubs" },
+    "carta2": { "valor": "7", "tipo": "Spades" },
+    "valores": "12,98"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Clubs" },
+    "carta2": { "valor": "7", "tipo": "Hearts" },
+    "valores": "13,02"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Clubs" },
+    "carta2": { "valor": "7", "tipo": "Diamonds" },
+    "valores": "12,61"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Clubs" },
+    "carta2": { "valor": "8", "tipo": "Clubs" },
+    "valores": "17,48"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Clubs" },
+    "carta2": { "valor": "8", "tipo": "Spades" },
+    "valores": "13,07"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Clubs" },
+    "carta2": { "valor": "8", "tipo": "Hearts" },
+    "valores": "13,03"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Clubs" },
+    "carta2": { "valor": "8", "tipo": "Diamonds" },
+    "valores": "13,39"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Clubs" },
+    "valores": "16,53"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Spades" },
+    "valores": "13,77"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "13,56"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "14,17"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "17,49"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "14,51"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "14,76"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "14,51"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "20,89"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "17,4"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "17,33"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "16,78"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "24,44"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "22,15"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "21,74"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "21,67"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "30,96"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "28,8"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "28,95"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "28,6"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Spades" },
+    "carta2": { "valor": "6", "tipo": "Hearts" },
+    "valores": "17,35"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Spades" },
+    "carta2": { "valor": "6", "tipo": "Diamonds" },
+    "valores": "17,72"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Spades" },
+    "carta2": { "valor": "7", "tipo": "Clubs" },
+    "valores": "13,08"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Spades" },
+    "carta2": { "valor": "7", "tipo": "Spades" },
+    "valores": "16,03"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Spades" },
+    "carta2": { "valor": "7", "tipo": "Hearts" },
+    "valores": "13,14"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Spades" },
+    "carta2": { "valor": "7", "tipo": "Diamonds" },
+    "valores": "12,98"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Spades" },
+    "carta2": { "valor": "8", "tipo": "Clubs" },
+    "valores": "13,36"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Spades" },
+    "carta2": { "valor": "8", "tipo": "Spades" },
+    "valores": "16,8"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Spades" },
+    "carta2": { "valor": "8", "tipo": "Hearts" },
+    "valores": "13,46"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Spades" },
+    "carta2": { "valor": "8", "tipo": "Diamonds" },
+    "valores": "13,46"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Clubs" },
+    "valores": "14,11"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Spades" },
+    "valores": "17,71"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "13,82"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "14,34"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "15,72"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "18,53"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "15,16"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "14,55"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "17,2"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "20,49"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "16,65"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "16,82"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "21,76"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "23,81"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "21,73"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "21,61"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "28,56"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "31,46"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "29,53"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "28,79"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Hearts" },
+    "carta2": { "valor": "6", "tipo": "Diamonds" },
+    "valores": "17,67"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Hearts" },
+    "carta2": { "valor": "7", "tipo": "Clubs" },
+    "valores": "13,63"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Hearts" },
+    "carta2": { "valor": "7", "tipo": "Spades" },
+    "valores": "12,59"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Hearts" },
+    "carta2": { "valor": "7", "tipo": "Hearts" },
+    "valores": "16,99"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Hearts" },
+    "carta2": { "valor": "7", "tipo": "Diamonds" },
+    "valores": "13,45"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Hearts" },
+    "carta2": { "valor": "8", "tipo": "Clubs" },
+    "valores": "14,12"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Hearts" },
+    "carta2": { "valor": "8", "tipo": "Spades" },
+    "valores": "12,96"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Hearts" },
+    "carta2": { "valor": "8", "tipo": "Hearts" },
+    "valores": "17,45"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Hearts" },
+    "carta2": { "valor": "8", "tipo": "Diamonds" },
+    "valores": "13,44"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Hearts" },
+    "carta2": { "valor": "9", "tipo": "Clubs" },
+    "valores": "14,54"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Hearts" },
+    "carta2": { "valor": "9", "tipo": "Spades" },
+    "valores": "14,4"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Hearts" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "17,78"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Hearts" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "13,67"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "14,97"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "14,94"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "17,94"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "14,61"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "17,18"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "17,08"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "20,02"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "17,03"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "21,31"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "21,54"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "24,59"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "22,15"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "27,65"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "28,61"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "31,9"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "28,09"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Diamonds" },
+    "carta2": { "valor": "7", "tipo": "Clubs" },
+    "valores": "12,95"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Diamonds" },
+    "carta2": { "valor": "7", "tipo": "Spades" },
+    "valores": "12,62"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Diamonds" },
+    "carta2": { "valor": "7", "tipo": "Hearts" },
+    "valores": "13,09"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Diamonds" },
+    "carta2": { "valor": "7", "tipo": "Diamonds" },
+    "valores": "16,52"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Diamonds" },
+    "carta2": { "valor": "8", "tipo": "Clubs" },
+    "valores": "13,67"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Diamonds" },
+    "carta2": { "valor": "8", "tipo": "Spades" },
+    "valores": "13,21"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Diamonds" },
+    "carta2": { "valor": "8", "tipo": "Hearts" },
+    "valores": "13,41"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Diamonds" },
+    "carta2": { "valor": "8", "tipo": "Diamonds" },
+    "valores": "16,71"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Diamonds" },
+    "carta2": { "valor": "9", "tipo": "Clubs" },
+    "valores": "14,38"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Diamonds" },
+    "carta2": { "valor": "9", "tipo": "Spades" },
+    "valores": "13,83"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Diamonds" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "13,63"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Diamonds" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "17,55"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "14,71"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "15,12"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "15,29"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "18,42"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "16,47"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "17,39"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "17,05"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "19,92"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "22,12"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "21,43"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "21,84"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "24,95"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "28,56"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "28,33"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "28,41"
+  },
+  {
+    "carta1": { "valor": "6", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "30,94"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Clubs" },
+    "carta2": { "valor": "7", "tipo": "Spades" },
+    "valores": "18,35"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Clubs" },
+    "carta2": { "valor": "7", "tipo": "Hearts" },
+    "valores": "17,79"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Clubs" },
+    "carta2": { "valor": "7", "tipo": "Diamonds" },
+    "valores": "18,17"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Clubs" },
+    "carta2": { "valor": "8", "tipo": "Clubs" },
+    "valores": "17,26"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Clubs" },
+    "carta2": { "valor": "8", "tipo": "Spades" },
+    "valores": "13,66"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Clubs" },
+    "carta2": { "valor": "8", "tipo": "Hearts" },
+    "valores": "14,32"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Clubs" },
+    "carta2": { "valor": "8", "tipo": "Diamonds" },
+    "valores": "14,03"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Clubs" },
+    "valores": "18,5"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Spades" },
+    "valores": "15,01"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "15,93"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "14,87"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "19,21"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "15,96"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "15,76"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "15,91"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "20,26"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "17,8"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "18,54"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "18,21"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "24,83"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "21,15"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "21,54"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "21,65"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "31,27"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "28,5"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "28,76"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "28,54"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Spades" },
+    "carta2": { "valor": "7", "tipo": "Hearts" },
+    "valores": "18,2"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Spades" },
+    "carta2": { "valor": "7", "tipo": "Diamonds" },
+    "valores": "19,1"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Spades" },
+    "carta2": { "valor": "8", "tipo": "Clubs" },
+    "valores": "14"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Spades" },
+    "carta2": { "valor": "8", "tipo": "Spades" },
+    "valores": "17,25"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Spades" },
+    "carta2": { "valor": "8", "tipo": "Hearts" },
+    "valores": "14,35"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Spades" },
+    "carta2": { "valor": "8", "tipo": "Diamonds" },
+    "valores": "14,26"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Clubs" },
+    "valores": "14,81"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Spades" },
+    "valores": "17,68"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "15,35"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "14,81"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "15,66"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "18,93"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "16,28"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "16,18"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "17,25"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "21,55"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "17,68"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "18,63"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "20,22"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "24,64"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "21,52"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "20,55"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "29,85"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "30,53"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "28,29"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "28,59"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Hearts" },
+    "carta2": { "valor": "7", "tipo": "Diamonds" },
+    "valores": "18,55"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Hearts" },
+    "carta2": { "valor": "8", "tipo": "Clubs" },
+    "valores": "14,6"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Hearts" },
+    "carta2": { "valor": "8", "tipo": "Spades" },
+    "valores": "14,47"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Hearts" },
+    "carta2": { "valor": "8", "tipo": "Hearts" },
+    "valores": "17,02"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Hearts" },
+    "carta2": { "valor": "8", "tipo": "Diamonds" },
+    "valores": "14,04"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Hearts" },
+    "carta2": { "valor": "9", "tipo": "Clubs" },
+    "valores": "14,65"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Hearts" },
+    "carta2": { "valor": "9", "tipo": "Spades" },
+    "valores": "15,6"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Hearts" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "17,74"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Hearts" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "15,05"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "16,14"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "15,46"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "19,45"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "16,03"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "18,09"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "17,36"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "21,75"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "18,41"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "21,61"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "21,17"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "24,15"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "21,4"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "28,7"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "28,64"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "30,97"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "28,45"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Diamonds" },
+    "carta2": { "valor": "8", "tipo": "Clubs" },
+    "valores": "14,04"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Diamonds" },
+    "carta2": { "valor": "8", "tipo": "Spades" },
+    "valores": "13,92"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Diamonds" },
+    "carta2": { "valor": "8", "tipo": "Hearts" },
+    "valores": "14,32"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Diamonds" },
+    "carta2": { "valor": "8", "tipo": "Diamonds" },
+    "valores": "17,14"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Diamonds" },
+    "carta2": { "valor": "9", "tipo": "Clubs" },
+    "valores": "15,28"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Diamonds" },
+    "carta2": { "valor": "9", "tipo": "Spades" },
+    "valores": "14,87"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Diamonds" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "15,14"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Diamonds" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "18,46"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "16,27"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "15,38"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "15,79"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "18,99"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "17,92"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "18,01"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "17,61"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "21,64"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "21,21"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "20,88"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "21,55"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "24,48"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "28,77"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "29,12"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "29,25"
+  },
+  {
+    "carta1": { "valor": "7", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "31,28"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Clubs" },
+    "carta2": { "valor": "8", "tipo": "Spades" },
+    "valores": "20,49"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Clubs" },
+    "carta2": { "valor": "8", "tipo": "Hearts" },
+    "valores": "19,78"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Clubs" },
+    "carta2": { "valor": "8", "tipo": "Diamonds" },
+    "valores": "20,09"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Clubs" },
+    "valores": "19,03"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Spades" },
+    "valores": "15,72"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "15,79"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "15,49"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "19,77"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "16,97"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "17,22"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "17,21"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "22,32"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "19,12"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "18,74"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "19,44"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "25,17"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "22,94"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "22,36"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "22,01"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "30,68"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "28,23"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "28,83"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "29,51"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Spades" },
+    "carta2": { "valor": "8", "tipo": "Hearts" },
+    "valores": "19,9"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Spades" },
+    "carta2": { "valor": "8", "tipo": "Diamonds" },
+    "valores": "20,15"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Clubs" },
+    "valores": "15,9"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Spades" },
+    "valores": "19,16"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "15,57"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "15,82"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "17,76"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "20,91"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "17,53"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "16,74"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "19,54"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "22,14"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "18,6"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "19,06"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "22,9"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "24,73"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "22,21"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "22,79"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "28,03"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "31,23"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "28,3"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "28,22"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Hearts" },
+    "carta2": { "valor": "8", "tipo": "Diamonds" },
+    "valores": "20,88"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Hearts" },
+    "carta2": { "valor": "9", "tipo": "Clubs" },
+    "valores": "15,4"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Hearts" },
+    "carta2": { "valor": "9", "tipo": "Spades" },
+    "valores": "16,07"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Hearts" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "18,97"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Hearts" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "15,52"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "17,22"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "16,61"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "20,1"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "17,05"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "17,87"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "19,41"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "22,09"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "19,15"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "22,7"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "22,76"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "25,44"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "21,97"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "27,69"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "28,52"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "30,04"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "27,6"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Diamonds" },
+    "carta2": { "valor": "9", "tipo": "Clubs" },
+    "valores": "16,76"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Diamonds" },
+    "carta2": { "valor": "9", "tipo": "Spades" },
+    "valores": "15,73"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Diamonds" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "15,91"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Diamonds" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "18,76"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "16,84"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "17,28"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "17,09"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "20,36"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "18,98"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "19,72"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "19,2"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "21,85"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "22,77"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "22,02"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "22,91"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "25,38"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "28,61"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "28,05"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "28,31"
+  },
+  {
+    "carta1": { "valor": "8", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "31,22"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Spades" },
+    "valores": "22,25"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "22,27"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Clubs" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "22,59"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "21,32"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "18,38"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "18,6"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "18,35"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "23,49"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "21,18"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "20,3"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "19,96"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "25,96"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "23,93"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "23,61"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "23,3"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "31,76"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "29,67"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "28,15"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "29,44"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Hearts" },
+    "valores": "22,41"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Spades" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "23,61"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "18,22"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "21,51"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "18,84"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "18,08"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "19,98"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "23,25"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "20,71"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "20,17"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "23,8"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "27,09"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "22,98"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "23,54"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "29,72"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "32,21"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "29,07"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "29,06"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Hearts" },
+    "carta2": { "valor": "9", "tipo": "Diamonds" },
+    "valores": "22,11"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "18,92"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "19,04"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "21,46"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "18,98"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "20,78"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "19,81"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "23,12"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "20,77"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "23,79"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "23,77"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "26,41"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "23,41"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "28,91"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "29,37"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "31,76"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "29,2"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Clubs" },
+    "valores": "18,18"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "18,13"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "18,71"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Diamonds" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "20,9"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "19,41"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "20,4"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "20,51"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "23,39"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "23,5"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "23,26"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "23,44"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "25,89"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "27,94"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "29,13"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "29,11"
+  },
+  {
+    "carta1": { "valor": "9", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "31,77"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Spades" },
+    "valores": "25,81"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "27"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Clubs" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "26,18"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "24,99"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "22,1"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "22,38"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "21,35"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "28,31"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "24,26"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "25,29"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "26,04"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "33,07"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "31,47"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "30,29"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "30,68"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Hearts" },
+    "valores": "24,83"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Spades" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "25,7"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "21,55"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "24,37"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "21,28"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "21,83"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "24,61"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "27,22"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "25,05"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "25,2"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "31,55"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "33,9"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "31,36"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "31,11"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Hearts" },
+    "carta2": { "valor": "10", "tipo": "Diamonds" },
+    "valores": "25,9"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "22,4"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "21,79"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "25,02"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "22,07"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "24,15"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "25,2"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "27,88"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "24,67"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "31,26"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "30,7"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "33,17"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "30,95"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Clubs" },
+    "valores": "21,44"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "21,78"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "21,06"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Diamonds" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "24,57"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "25,33"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "25,45"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "25,4"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "27,98"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "31,7"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "31,32"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "31"
+  },
+  {
+    "carta1": { "valor": "10", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "34,48"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Spades" },
+    "valores": "30,17"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "30,19"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Clubs" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "30,64"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "28,06"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "25,35"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "25,94"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "25,15"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "32,87"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "31,48"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "30,17"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "31,07"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Hearts" },
+    "valores": "30,49"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Spades" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "30,16"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "24,9"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "27,87"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "25,63"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "25,09"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "31,66"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "33,34"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "31,75"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "30,05"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Hearts" },
+    "carta2": { "valor": "11", "tipo": "Diamonds" },
+    "valores": "31,25"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "24,47"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "24,82"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "27,6"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "25,8"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "30,16"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "31,89"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "33,38"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "30,55"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Clubs" },
+    "valores": "25,45"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "25,33"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "25,48"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Diamonds" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "28,12"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "31,55"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "30,61"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "30,22"
+  },
+  {
+    "carta1": { "valor": "11", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "33,36"
+  },
+  {
+    "carta1": { "valor": "12", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Spades" },
+    "valores": "36,55"
+  },
+  {
+    "carta1": { "valor": "12", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "38,04"
+  },
+  {
+    "carta1": { "valor": "12", "tipo": "Clubs" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "37,64"
+  },
+  {
+    "carta1": { "valor": "12", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "33,08"
+  },
+  {
+    "carta1": { "valor": "12", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "30,95"
+  },
+  {
+    "carta1": { "valor": "12", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "30,59"
+  },
+  {
+    "carta1": { "valor": "12", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "31,37"
+  },
+  {
+    "carta1": { "valor": "12", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Hearts" },
+    "valores": "37,5"
+  },
+  {
+    "carta1": { "valor": "12", "tipo": "Spades" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "37,33"
+  },
+  {
+    "carta1": { "valor": "12", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "31,5"
+  },
+  {
+    "carta1": { "valor": "12", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "33,46"
+  },
+  {
+    "carta1": { "valor": "12", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "31,55"
+  },
+  {
+    "carta1": { "valor": "12", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "30,72"
+  },
+  {
+    "carta1": { "valor": "12", "tipo": "Hearts" },
+    "carta2": { "valor": "12", "tipo": "Diamonds" },
+    "valores": "37,08"
+  },
+  {
+    "carta1": { "valor": "12", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "31,39"
+  },
+  {
+    "carta1": { "valor": "12", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "31,47"
+  },
+  {
+    "carta1": { "valor": "12", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "33,68"
+  },
+  {
+    "carta1": { "valor": "12", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "32,01"
+  },
+  {
+    "carta1": { "valor": "12", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Clubs" },
+    "valores": "31,77"
+  },
+  {
+    "carta1": { "valor": "12", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "31,12"
+  },
+  {
+    "carta1": { "valor": "12", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "31,01"
+  },
+  {
+    "carta1": { "valor": "12", "tipo": "Diamonds" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "34,04"
+  },
+  {
+    "carta1": { "valor": "13", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Spades" },
+    "valores": "48,66"
+  },
+  {
+    "carta1": { "valor": "13", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "47,62"
+  },
+  {
+    "carta1": { "valor": "13", "tipo": "Clubs" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "47,07"
+  },
+  {
+    "carta1": { "valor": "13", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Hearts" },
+    "valores": "47,34"
+  },
+  {
+    "carta1": { "valor": "13", "tipo": "Spades" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "47,35"
+  },
+  {
+    "carta1": { "valor": "13", "tipo": "Hearts" },
+    "carta2": { "valor": "13", "tipo": "Diamonds" },
+    "valores": "47,97"
+  }
+]
